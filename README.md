@@ -1,5 +1,5 @@
 # ECE-3020
-Mathematical Foundations of Computer Engineering
+Mathematical Foundations of Computer Engineering (C++)
 ## Course Desription
 Fundamental concepts in discrete mathematics and their efficient realization via algorithms, data
 structures, computer programs, and hardware. Discussion of engineering and computational
